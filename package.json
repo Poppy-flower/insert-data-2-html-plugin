@@ -1,14 +1,24 @@
 {
-  "name": "insert-data-2-html-plugin",
+  "name": "@xiaohong/insert-data-2-html-plugin",
   "version": "1.0.0",
-  "description": "",
+  "deprecated": false,
+  "description": "insert data 2 html by script",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "node-fetch": "^2.6.1"
+  },
+  "repository": "https://github.com/Poppy-flower/insert-data-2-html-plugin",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "oss"
+  ],
+  "engines": {
+    "node": "> 10.0.0"
   }
 }
